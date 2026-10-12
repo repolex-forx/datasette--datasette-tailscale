@@ -1,0 +1,26 @@
+{
+  "manifest_version": "1.0",
+  "org": "datasette",
+  "repo": "datasette-tailscale",
+  "versions": [
+    {
+      "commit": "7f5ac3e3ebe56caf7f294c1c871a650619eaeb8e",
+      "parsed_at": "2026-10-12T19:28:32.494587+00:00",
+      "filetree": "filetree/7f5ac3e3ebe56caf7f294c1c871a650619eaeb8e.nq.gz",
+      "blobs": [
+        "blob/4ea05b444f015c2ea28f89c686e54d4ecf3e89dd.nq.gz",
+        "blob/a786eaded181011f35076ba817bcbe33dba39979.nq.gz",
+        "blob/f8bb523d5efc81fdd483d95f703cb484272bb97b.nq.gz",
+        "blob/261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64.nq.gz",
+        "blob/467da60574868f5de29f6a2af936cad80a30d528.nq.gz",
+        "blob/723aebcfec10e4b57875a7a09b7dc7e88512ecea.nq.gz",
+        "blob/04920665e89e23e8b961bb5419c695e63c73e79a.nq.gz",
+        "blob/397b11a26389ff779f1e9336917290eebf5a2260.nq.gz",
+        "blob/90a5c661c0c087e1994cfde9164bd65cdf0baedf.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
