@@ -1,0 +1,11 @@
+{
+  "org": "datasette",
+  "repo": "datasette-tailscale",
+  "versions": [
+    {
+      "commit": "7f5ac3e3ebe56caf7f294c1c871a650619eaeb8e",
+      "tag": "",
+      "parsed_at": "2026-10-12T19:30:40.486568+00:00"
+    }
+  ]
+}
